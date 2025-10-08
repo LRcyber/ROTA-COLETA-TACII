@@ -26,9 +26,9 @@ export default function CheckboxPontos({ pontos, inicio, selecionados, marcarPon
 
 const styles = StyleSheet.create({
   card: {
-    width: "100%",
+    width: "80%",
     backgroundColor: "#f9f9f9",
-    padding: 12,
+    padding: 10,
     borderRadius: 12,
     marginVertical: 10,
   },
