@@ -32,7 +32,7 @@ export default function Resultado({ etapas, total }) {
 
 const styles = StyleSheet.create({
   card: {
-    width: "100%",
+    width: "80%",
     backgroundColor: "#f9f9f9",
     padding: 12,
     borderRadius: 12,
